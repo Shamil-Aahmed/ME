@@ -40,16 +40,21 @@ Welcome to my GitHub! I’m a backend dev who loves building scalable, efficient
 
 ## 🏆 Featured Projects
 ### [Mithu](https://mithu.com/)
-- 📝 A Company Project built using Node.js, Express, Socket.io and MongoDB  
-- ☁︎  Deployed with AWS for scalability  
+- 📝 A Loyalty Reward Application built using Node.js, Express, Socket.io and MongoDB
+- ☁︎  Deployed with AWS
 
+
+### [Bxlend](https://bxlend.com/)
+- 📝 A Centralized Crypto Exchange built using MERN, 
+- 💻 Other tech : Vaultody , Kubernetes, Docker, Bitstamp   
+- ☁︎  Deployed with AWS  
 
 ---
 
 ## 🌐 Let’s Connect!
 - 📧 Email: [shamilahmedkhann@gmail.com]  
 - 💼 [LinkedIn](https://linkedin.com/in/shamil1505)  
-- 🌍 [Portfolio Website](https://google.com) 
+- 🌍 [Portfolio Website](https://github.com/Shamil-Aahmed/ME) 
 
 ---
 
