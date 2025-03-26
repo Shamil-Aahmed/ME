@@ -40,7 +40,7 @@ Welcome to my GitHub! I’m a backend dev who loves building scalable, efficient
 
 ## 🏆 Featured Projects
 ### [Mithu](https://mithu.com/)
-- 📝 A Loyalty Reward Application built using Node.js, Express, Socket.io and MongoDB
+- 📝 A Loyalty Rewards Application built using Node.js, Express, Socket.io and MongoDB
 - ☁︎  Deployed with AWS
 
 
