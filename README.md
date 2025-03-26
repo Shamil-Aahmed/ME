@@ -52,7 +52,7 @@ Welcome to my GitHub! I’m a backend dev who loves building scalable, efficient
 ---
 
 ## 🌐 Let’s Connect!
-- 📧 Email: [let's connect](shamilahmedkhann@gmail.com)  
+- 📧 Email: shamilahmedkhann@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/shamil1505)  
 - 🌍 [Portfolio Website](https://github.com/Shamil-Aahmed/ME) 
 
